@@ -1,11 +1,10 @@
-## Hi, I’m Brendon Cavainolo, Ph.D. 👋
+## Hi, I’m Brendon Cavainolo, Ph.D. 
 
-Aerospace CFD Research Engineer focused on multiphase flow, aerodynamics, and high‑performance computing. I build physics‑based simulations, digital twins, and ML‑accelerated workflows for complex fluid systems.
+I'm the CTO at Advanced CFD Solutions, LLC., and a Postdoctoral Research Scholar at Embry-Riddle Aeronautical University. Currently, I am focused on CFD in the plantary boundary layer, aerodynamics, and digital-twins. In addition to my current projects, I have experience with multiphase flow, high-temperature coatings, rocketry, and much more in Aerospace CFD.
 
 ### What I’m working on
 - **DARPA Albatross** — weather‑driven CFD for autonomous soaring (ERAU).
-- **Hypersonic droplet cavitation** — deformation dynamics and cavitation modeling.
-- **Real‑time LBM CFD** — GPU‑accelerated helicopter‑ship airwake interactions.
+- **Real‑time LBM CFD** — GPU‑accelerated aerodynamic simulations.
 - **Spaceport logistics** — digital‑twin simulation for spaceport operations.
 
 ### Areas of expertise
@@ -15,6 +14,7 @@ Aerospace CFD Research Engineer focused on multiphase flow, aerodynamics, and hi
 - Physics‑informed ML / neural network acceleration
 
 ### Selected publications
+- Sweety Sarker, Brendon Cavainolo and Michael Kinzel. "Physics-Informed Neural Networks for Real-Time, Micro-scale Atmospheric Flow Prediction," AIAA 2026-1933. AIAA SCITECH 2026 Forum. January 2026. https://doi.org/10.2514/6.2026-1933.
 - B. Cavainolo, R. Barney, J.-P. Delplanque, R. Nourgaliev, P. Greene, R. McCallen; Insight into pseudo-film-boiling in supercritical water under simplified interfacial conditions. Physics of Fluids 1 September 2025; 37 (9): 094130. https://doi.org/10.1063/5.0280938
 - B. Cavainolo, R. Naraparaju, M.R. Kabir, M. P. Kinzel; Evaluation of molten sand, dust, and ash infiltrating thermal barrier coatings: Numerical and analytical approaches. Physics of Fluids 1 November 2024; 36 (11): 113373. https://doi.org/10.1063/5.0234882.
 - Brendon Cavainolo and Michael Kinzel. "Direct Simulation of CMAS Infiltrating TBC Microstructure," AIAA 2024-3618. AIAA AVIATION FORUM AND ASCEND 2024 . July 2024. https://doi.org/10.2514/6.2024-3618
@@ -22,8 +22,9 @@ Aerospace CFD Research Engineer focused on multiphase flow, aerodynamics, and hi
 - Cavainolo et al., “Insight into Pseudo Film‑Boiling in Supercritical Water,” *Physics of Fluids* (2025).
 
 ### Tooling & skills
-- **CFD/Physics:** Star‑CCM+, Ansys Fluent, OpenFOAM, ALE3D‑CFD, Abaqus
-- **Programming/HPC:** Python, MATLAB, C++, Java, Julia, Bash, Slurm, PBS, Git
+- **Commercial/Government Physics Solvers:** Star‑CCM+, Ansys Fluent, ALE3D‑CNFD, Abaqus
+- **Open-source Physics Solvers:** OpenFOAM, waLBerla, FluidX3D, MFC, Alpaca
+- **Programming/HPC:** Python, MATLAB, C/C++, CUDA, Java, Julia, Bash, Slurm, PBS, Git
 - **Visualization:** ParaVIEW, VisIT
 - **CAD:** SolidWorks, Fusion 360
 
