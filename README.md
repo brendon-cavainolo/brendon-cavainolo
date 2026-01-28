@@ -6,7 +6,7 @@ Aerospace CFD Research Engineer focused on multiphase flow, aerodynamics, and hi
 - **DARPA Albatross** — weather‑driven CFD for autonomous soaring (ERAU).
 - **Hypersonic droplet cavitation** — deformation dynamics and cavitation modeling.
 - **Real‑time LBM CFD** — GPU‑accelerated helicopter‑ship airwake interactions.
-- **TEU payload logistics** — digital‑twin simulation for space cargo operations.
+- **Spaceport logistics** — digital‑twin simulation for spaceport operations.
 
 ### Areas of expertise
 - Computational fluid dynamics (multiphase, compressible, turbulence)
@@ -15,8 +15,9 @@ Aerospace CFD Research Engineer focused on multiphase flow, aerodynamics, and hi
 - Physics‑informed ML / neural network acceleration
 
 ### Selected publications
-- Cavainolo et al., “Evaluation of Molten Sand, Dust, and Ash Infiltrating Thermal Barrier Coatings,” *Physics of Fluids* (2024).
-- Cavainolo & Kinzel, “Direct Simulation of CMAS Infiltrating TBC Microstructure,” *AIAA AVIATION 2024*. https://doi.org/10.2514/6.2024-3618
+- B. Cavainolo, R. Barney, J.-P. Delplanque, R. Nourgaliev, P. Greene, R. McCallen; Insight into pseudo-film-boiling in supercritical water under simplified interfacial conditions. Physics of Fluids 1 September 2025; 37 (9): 094130. https://doi.org/10.1063/5.0280938
+- B. Cavainolo, R. Naraparaju, M.R. Kabir, M. P. Kinzel; Evaluation of molten sand, dust, and ash infiltrating thermal barrier coatings: Numerical and analytical approaches. Physics of Fluids 1 November 2024; 36 (11): 113373. https://doi.org/10.1063/5.0234882.
+- Brendon Cavainolo and Michael Kinzel. "Direct Simulation of CMAS Infiltrating TBC Microstructure," AIAA 2024-3618. AIAA AVIATION FORUM AND ASCEND 2024 . July 2024. https://doi.org/10.2514/6.2024-3618
 - Cavainolo et al., “Simulating CMAS Infiltration of an EB‑PVD TBC Using VOF,” *AIAA AVIATION 2023*. https://doi.org/10.2514/6.2023-4427
 - Cavainolo et al., “Insight into Pseudo Film‑Boiling in Supercritical Water,” *Physics of Fluids* (2025).
 
